@@ -1,0 +1,27 @@
+{
+  "name": "tesla-stock-price-api",
+  "version": "0.1.0",
+  "description": "An API for a trained model to predict the Tesla stock price",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesbting/tesla-stock-price-api.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamesbting/tesla-stock-price-api/issues"
+  },
+  "homepage": "https://github.com/jamesbting/tesla-stock-price-api#readme",
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "config": "^3.3.3",
+    "express": "^4.17.1"
+  }
+}
